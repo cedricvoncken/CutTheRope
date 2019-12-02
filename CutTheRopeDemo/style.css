@@ -1,0 +1,6 @@
+  canvas:first-of-type {
+      position: absolute;
+      top: 7px;
+      left: 7px;
+      opacity: 0;
+  }
